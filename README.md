@@ -1,6 +1,6 @@
 # Object Detection and Segmentation
 
-#### A project to detect and segment a set of MNIST RGB images.
+#### A project to detect and segment a set of MNIST RGB images (images of digits from 0 to 9). It determines the boundary boxes of digits in an image and segments them from the background.
 #### Overall accuracy: 99.6%
 
 #### Link to download dataset and saved model: https://drive.google.com/drive/folders/1r4QomZ9X9FSWZH9OUeiFDqjBzuSOpjzZ?usp=sharing
